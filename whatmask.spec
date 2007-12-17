@@ -10,7 +10,6 @@ License: GPL
 Group: Networking/Other
 Source: %name-%version.tar.bz2
 URL: http://www.laffeycomputer.com/whatmask.html
-BuildRoot: %_tmppath/%{name}-buildroot               
 
 %description
 Whatmask is a small C program that will help you with network 
