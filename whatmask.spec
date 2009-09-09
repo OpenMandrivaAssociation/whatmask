@@ -1,6 +1,6 @@
 %define name whatmask
 %define version 1.2
-%define release %mkrel 7
+%define release %mkrel 8
 
 Summary: Convert between different netmask types
 Name: %name
