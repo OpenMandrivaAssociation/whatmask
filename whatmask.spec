@@ -12,6 +12,11 @@ Source: %name-%version.tar.bz2
 URL: https://www.laffeycomputer.com/whatmask.html
 BuildRoot: %_tmppath/%{name}-buildroot               
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Whatmask is a small C program that will help you with network 
 settings.
